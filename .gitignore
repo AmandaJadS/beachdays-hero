@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# Node modules
+node_modules/
+
+# OS-specifika filer
+.DS_Store
+Thumbs.db
